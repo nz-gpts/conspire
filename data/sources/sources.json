@@ -1,0 +1,25 @@
+{
+  "sources": [
+    {
+      "id": "etymonline",
+      "name": "Etymonline",
+      "type": "secondary_etymology",
+      "url": "https://www.etymonline.com/word/conspiracy",
+      "role": "dated semantic/etymological claims; not primary evidence"
+    },
+    {
+      "id": "wiktionary",
+      "name": "Wiktionary",
+      "type": "secondary_lexical",
+      "url": "https://en.wiktionary.org/wiki/conspiracy",
+      "role": "structured ancestry and cited attestations"
+    },
+    {
+      "id": "google_books_ngram",
+      "name": "Google Books Ngram",
+      "type": "frequency_corpus",
+      "url": "https://books.google.com/ngrams/",
+      "role": "long-run normalized print frequency; corpus is not the public web"
+    }
+  ]
+}
