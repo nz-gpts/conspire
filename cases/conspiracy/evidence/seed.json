@@ -1,0 +1,37 @@
+{
+  "term": "conspiracy",
+  "status": "seed_evidence",
+  "claims": [
+    {
+      "claim": "English noun attested by mid-14th century in a negative plotting/unlawful-design sense",
+      "source_id": "etymonline",
+      "evidence_type": "secondary",
+      "verification": "source_checked"
+    },
+    {
+      "claim": "Derived through Anglo-French/Old French conspiracie from Latin conspiratio/conspirationem",
+      "source_id": "etymonline",
+      "evidence_type": "secondary",
+      "verification": "source_checked"
+    },
+    {
+      "claim": "Latin ancestor is glossed with agreement/union/unanimity as well as the ancestry of later plotting senses",
+      "source_id": "etymonline",
+      "evidence_type": "secondary",
+      "verification": "source_checked"
+    },
+    {
+      "claim": "Neutral/good English verbal sense of conspire ('contribute jointly to a result') is dated by Etymonline to the 1530s",
+      "source_id": "etymonline",
+      "evidence_type": "secondary",
+      "verification": "source_checked"
+    },
+    {
+      "claim": "The phrase conspiracy theory existed before its modern strongly pejorative usage; Etymonline notes 19th-century non-pejorative use and a mid-20th-century development",
+      "source_id": "etymonline",
+      "evidence_type": "secondary",
+      "verification": "source_checked"
+    }
+  ],
+  "caution": "These records seed the investigation. They are claims from secondary lexical sources, not independently verified primary attestations."
+}
