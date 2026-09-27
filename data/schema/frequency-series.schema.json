@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Conspire frequency series metadata",
+  "type": "object",
+  "required": [
+    "term",
+    "corpus",
+    "metric",
+    "start_year",
+    "end_year"
+  ],
+  "properties": {
+    "term": {
+      "type": "string"
+    },
+    "corpus": {
+      "type": "string"
+    },
+    "metric": {
+      "type": "string"
+    },
+    "start_year": {
+      "type": "integer"
+    },
+    "end_year": {
+      "type": "integer"
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "retrieved_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
