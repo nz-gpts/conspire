@@ -1,0 +1,152 @@
+{
+  "case_id": "conspiracy",
+  "term": "conspiracy",
+  "status": "evidence_seed_v1",
+  "generated_on": "2026-09-27",
+  "methodology_note": "Claims are separated by language stage and source. Dates describe attestations or source-reported dating, not an assumed continuous meaning. Lexical ancestry is not itself evidence that every descendant retained every ancestral sense.",
+  "timeline": [
+    {
+      "stage": "Latin",
+      "form": "conspiratio",
+      "date": null,
+      "date_precision": "classical/Latin lexical stage; exact first attestation not established in this file",
+      "relationship": "ancestor",
+      "senses": [
+        "union / unanimity / concord / harmony",
+        "plot / mutiny / conspiracy"
+      ],
+      "evidence": [
+        {
+          "source": "Lewis & Short, A Latin Dictionary (via Wiktionary reference record)",
+          "url": "https://en.wiktionary.org/wiki/conspiratio",
+          "accessed": "2026-09-27"
+        },
+        {
+          "source": "Wiktionary Latin entry",
+          "url": "https://en.wiktionary.org/wiki/conspiratio",
+          "accessed": "2026-09-27"
+        }
+      ],
+      "confidence": "high for attested sense range; unresolved for first-attestation date"
+    },
+    {
+      "stage": "Latin",
+      "form": "conspirare / conspiro",
+      "date": null,
+      "date_precision": "Latin lexical stage",
+      "relationship": "derivational base",
+      "senses": [
+        "agree / unite",
+        "plot"
+      ],
+      "literal_morphology": "con- 'together/with' + spirare 'breathe'; hence conventionally glossed 'breathe together'",
+      "evidence": [
+        {
+          "source": "Oxford Learner's Dictionaries, word origin",
+          "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/conspiracy",
+          "accessed": "2026-09-27"
+        },
+        {
+          "source": "Etymonline, conspiracy",
+          "url": "https://www.etymonline.com/word/conspiracy",
+          "accessed": "2026-09-27"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "stage": "Old French / Anglo-French",
+      "form": "conspiracie",
+      "date": null,
+      "date_precision": "medieval French transmission; exact first attestation not established here",
+      "relationship": "borrowing path to English",
+      "senses": [
+        "conspiracy / plot"
+      ],
+      "evidence": [
+        {
+          "source": "Etymonline, conspiracy",
+          "url": "https://www.etymonline.com/word/conspiracy",
+          "accessed": "2026-09-27"
+        },
+        {
+          "source": "Wiktionary, conspiracy",
+          "url": "https://en.wiktionary.org/wiki/conspiracy",
+          "accessed": "2026-09-27"
+        }
+      ],
+      "confidence": "high for transmission; unresolved exact dating"
+    },
+    {
+      "stage": "Middle English",
+      "form": "conspiracie",
+      "date": "1300s",
+      "date_precision": "mid-14th century (source-reported)",
+      "relationship": "English attestation",
+      "senses": [
+        "plotting of evil / unlawful design",
+        "combination of persons for an evil purpose"
+      ],
+      "evidence": [
+        {
+          "source": "Etymonline, conspiracy",
+          "url": "https://www.etymonline.com/word/conspiracy",
+          "accessed": "2026-09-27"
+        },
+        {
+          "source": "Oxford Learner's Dictionaries, word origin",
+          "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/conspiracy",
+          "accessed": "2026-09-27"
+        }
+      ],
+      "confidence": "high for broad dating; primary manuscript quotation still required"
+    },
+    {
+      "stage": "Modern English",
+      "form": "conspiracy",
+      "date": null,
+      "date_precision": "current dictionary evidence",
+      "relationship": "current senses",
+      "senses": [
+        "agreement to perform together an illegal, wrongful, or subversive act",
+        "group of conspirators",
+        "legal: agreement to commit a crime or accomplish a legal purpose through illegal action",
+        "figurative joining or acting together as if by sinister design"
+      ],
+      "evidence": [
+        {
+          "source": "American Heritage Dictionary",
+          "url": "https://www.ahdictionary.com/word/search.html?q=conspiracy",
+          "accessed": "2026-09-27"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "stage": "English phrase",
+      "form": "conspiracy theory",
+      "date": "1800s",
+      "date_precision": "phrase attested in 19th century; pejorative/unwarranted-belief sense source-reported by 1937",
+      "relationship": "derived phrase; must not be conflated with conspiracy",
+      "senses": [
+        "the theory that a particular conspiracy exists",
+        "later: explanation involving an unwarranted belief in conspiracy by powerful forces"
+      ],
+      "evidence": [
+        {
+          "source": "Etymonline, conspiracy",
+          "url": "https://www.etymonline.com/word/conspiracy",
+          "accessed": "2026-09-27"
+        }
+      ],
+      "confidence": "medium-high; requires primary quotation series before asserting a semantic change point"
+    }
+  ],
+  "unresolved": [
+    "Locate and cite a primary Middle English occurrence of conspiracie with manuscript/edition metadata.",
+    "Establish the earliest securely dated Latin occurrences of conspiratio for harmony/agreement and plot senses separately.",
+    "Build dated quotation series sufficient to test when negative/illegal senses dominate English usage.",
+    "Measure conspiracy, conspiracy theory, and conspiracy theorist independently across print and web corpora.",
+    "Do not infer causes for frequency or semantic change until candidate change points are measured against dated evidence."
+  ]
+}
